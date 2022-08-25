@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T19:29:22 IST" name="Command line suite" finished-at="2022-08-25T19:29:22 IST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T19:29:22 IST" name="Command line test" finished-at="2022-08-25T19:29:22 IST" duration-ms="69">
+      <class name="com.qa.tests.TestLog4j">
+        <test-method signature="testLog4jLogging()[pri:0, instance:com.qa.tests.TestLog4j@79efed2d]" started-at="2022-08-25T19:29:22 IST" name="testLog4jLogging" finished-at="2022-08-25T19:29:22 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLog4jLogging -->
+      </class> <!-- com.qa.tests.TestLog4j -->
+      <class name="com.qa.tests.TestLombokFunc">
+        <test-method signature="func1()[pri:0, instance:com.qa.tests.TestLombokFunc@6ce139a4]" started-at="2022-08-25T19:29:22 IST" name="func1" finished-at="2022-08-25T19:29:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func1 -->
+        <test-method signature="testBuilder()[pri:0, instance:com.qa.tests.TestLombokFunc@6ce139a4]" started-at="2022-08-25T19:29:22 IST" name="testBuilder" finished-at="2022-08-25T19:29:22 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuilder -->
+        <test-method signature="testDataFeature()[pri:0, instance:com.qa.tests.TestLombokFunc@6ce139a4]" started-at="2022-08-25T19:29:22 IST" name="testDataFeature" finished-at="2022-08-25T19:29:22 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFeature -->
+        <test-method signature="testLogging()[pri:0, instance:com.qa.tests.TestLombokFunc@6ce139a4]" started-at="2022-08-25T19:29:22 IST" name="testLogging" finished-at="2022-08-25T19:29:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogging -->
+        <test-method signature="testReqFields()[pri:0, instance:com.qa.tests.TestLombokFunc@6ce139a4]" started-at="2022-08-25T19:29:22 IST" name="testReqFields" finished-at="2022-08-25T19:29:22 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReqFields -->
+      </class> <!-- com.qa.tests.TestLombokFunc -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

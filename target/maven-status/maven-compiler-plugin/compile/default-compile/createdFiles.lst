@@ -1,0 +1,12 @@
+jsonobjs\BusinessDetailsPojo.class
+jsonobjs\CustPojo.class
+com\qa\DeviceDetailsPojo.class
+com\qa\ProductB$ProductBBuilder.class
+com\qa\ProductB.class
+com\qa\StudentInfo.class
+jsonobjs\AddressDetailsPojo.class
+com\qa\ProductInfo.class
+com\qa\CustKYCPojo.class
+com\qa\InvoiceInfo.class
+jsonobjs\CustomerInfoPojo.class
+jsonobjs\ContactDetailsPojo.class
